@@ -1,2 +1,2 @@
-# wCfe_genomes
-Supplemental data for wCfeT and wCfeJ genome analyses
+# manuscript-wCfe
+Supplemental data for wCfeT and wCfeJ genome analysis manuscript.
